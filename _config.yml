@@ -19,17 +19,17 @@ avatar: https://github.com/pigreco/pigreco.github.io/blob/master/images/logo.png
 footer-links:
   dribbble:
   email:pigrecoinfinito@gmail.com
-  facebook: pigreco314
+  facebook: "pigreco314"
   flickr:
-  github: pigreco
+  github: "pigreco"
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: totofiandaca
+  twitter: "totofiandaca"
   stackexchange: users/73605/pigreco
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: /c/TotòFiandaca
+  youtube: "/c/TotòFiandaca"
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
