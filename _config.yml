@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: pigrecoinfinito@gmail.com
-  facebook: https://www.facebook.com/pigreco314
+  facebook: pigreco314
   flickr:
-  github: https://github.com/pigreco
+  github: pigreco
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/totofiandaca
+  twitter: totofiandaca
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:  channel/TotòFiandaca
+  youtube:TotòFiandaca
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
